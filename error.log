@@ -1,0 +1,25 @@
+2019-11-20 12:06:13,494-log_maker-INFO-Datebase Created Successfully or Already Exist
+2019-11-20 12:09:13,097-log_maker-INFO-Datebase Created Successfully or Already Exist
+2019-11-20 12:13:14,780-log_maker-INFO-Datebase Created Successfully or Already Exist
+2019-11-20 12:16:00,302-log_maker-INFO-Datebase Created Successfully or Already Exist
+2019-11-20 12:17:11,901-log_maker-INFO-Sell Successfully Inserted
+2019-11-20 12:18:23,982-log_maker-INFO-Sell Successfully Inserted
+2019-11-20 12:19:08,568-log_maker-INFO-Sell Successfully Inserted
+2019-11-20 12:20:14,534-log_maker-INFO-Raw Material Successfully Inserted
+2019-11-20 12:20:37,787-log_maker-INFO-Production Successfully Inserted
+2019-11-20 12:21:47,955-log_maker-INFO-Labours Successfully Inserted
+2019-11-20 12:22:54,875-log_maker-INFO-Labours Successfully Inserted
+2019-11-20 12:23:28,192-log_maker-ERROR-FileNotFoundError (2, 'No such file or directory')
+2019-11-20 12:23:28,192-log_maker-ERROR-FileNotFoundError (2, 'No such file or directory')
+2019-11-20 12:24:38,657-log_maker-INFO-ot Successfully Inserted
+2019-11-20 12:27:01,665-log_maker-INFO-Expenses Successfully Inserted
+2019-11-20 12:27:23,021-log_maker-INFO-Expenses Successfully Inserted
+2019-11-20 12:27:38,582-log_maker-INFO-Expenses Successfully Inserted
+2019-11-20 12:29:16,046-log_maker-INFO-Clients Successfully Inserted
+2019-11-20 15:27:05,186-log_maker-INFO-Datebase Created Successfully or Already Exist
+2019-11-20 15:28:12,002-log_maker-INFO-Sell Successfully Inserted
+2019-11-20 15:29:22,372-log_maker-INFO-Labours Successfully Inserted
+2019-11-20 15:30:13,210-log_maker-INFO-ot Successfully Inserted
+2019-11-20 15:31:10,301-log_maker-INFO-Expenses Successfully Inserted
+2020-01-20 16:32:51,090-log_maker-INFO-Datebase Created Successfully or Already Exist
+2020-01-20 16:36:47,590-log_maker-INFO-Datebase Created Successfully or Already Exist
